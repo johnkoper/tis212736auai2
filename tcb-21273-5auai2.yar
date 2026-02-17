@@ -22,3 +22,4 @@ rule tcb212735rule3 {
   condition:
     $test_string
 }
+
